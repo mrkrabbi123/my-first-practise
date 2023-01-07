@@ -1,0 +1,115 @@
+header {
+    background-image: url("new-year-new-me/images/banner/banner2.png");
+    height: 700px;
+    width: 1300px;
+}
+
+/* header start */
+.header-info {
+    text-align: end;
+    width: 1050px;
+    /* text-align: center;
+    justify-content: flex-end;
+    height: 1000px; */
+    padding-top: 170px;
+}
+
+.btn-text {
+    height: 70px;
+    width: 150px;
+    color: blueviolet;
+    background-color: aqua;
+    font-size: larger;
+    font-weight: bold;
+    border-radius: 10px;
+}
+
+.btn-primary {
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 250px;
+    border-radius: 10px;
+}
+
+.section-info {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.tit {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 50px;
+    padding-top: 80px;
+}
+
+.second-section-tittle {
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 30px;
+    font-weight: bold;
+    font-size: xx-large;
+}
+
+.main-section {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    padding-left: 60px;
+}
+
+.last-edit {
+    background-image: url("/new-year-new-me/images/watch.png");
+    background-repeat: no-repeat;
+    height: 300px;
+    width: 3000px;
+    margin-left: 100px;
+    margin-top: 100px;
+}
+.last-edit h1{
+    font-weight: bold;
+   padding-left: 50px;
+   padding-top: 70px;
+   padding-bottom: 50px;
+   
+
+}
+.thiird-text{
+    font-weight: bold;
+    height: 60px;
+    width: 140px;
+   border-radius: 10px;
+   color: brown;
+   background-color:wheat;
+}
+.full-buttton{
+    padding-left: 50px;
+    padding-bottom: 650px;
+}
+
+.fotter-frist-part{
+    color: blue;
+}
+.fotter-second-part{
+    color: red;
+}
+.fotter-info{
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+    padding-top: 100px;
+}
+/* .text{
+    text-align: center;
+    font-weight: bold;
+    font-size: larger;
+    padding-top: 100px;
+} */
+.btn-p{
+    background-color:orangered;
+    height: 50px;
+    width: 100px;
+    border-radius: 10px;
+}
